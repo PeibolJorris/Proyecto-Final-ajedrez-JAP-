@@ -1,0 +1,2 @@
+class Alberto:
+    pass
