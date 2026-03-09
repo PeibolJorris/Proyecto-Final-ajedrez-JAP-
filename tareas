@@ -1,3 +1,11 @@
-Jaime : Realiza el tablero (cajas 8x8 y piezas con sus iconos)
+Jaime : Realiza el tablero (cajas 8x8 y piezas con sus iconos) 
+  - Una clase tablero que incluya cajas con dicho tamaño y que tengas puestas encima imágenes de las piezas y estas harán referencia a las clases que hizo Alberto de piezas
+
 Pablo : Movimiento de piezas (reglas de movimiento y funcionamiento de como se mueve en el tablero)
+  - Dentro de las clases de pieza que creó Alberto se incluirán métodos y reglas para cada pieza por ejemplo movimiento peón y a su vez una clase Reglas que albergue las
+  reglas del juego. Por ejemplo que las blancas comienzan primero.
+  - Crea un método en la clase tablero que lo actualice cuando ocurra un movimiento.
+
 Alberto : Las clases de piezas con sus subclases 
+  - Crea la clase principal pieza que contiene todas las piezas (subclase) y los movimientos que Pablo crea.
+  - Subclases: alberga todos las piezas con sus movimientos y reglas
